@@ -1,2 +1,2 @@
 # Let's celebrate nuyie.com :tada: :tada:
-https://diewland.github.io/nuyie.com
+<a href='https://diewland.github.io/nuyie.com'>Preview Link</a>
